@@ -1,10 +1,10 @@
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" />
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" />
 
 ### Hi, I'm Srishti 👋
 
 **Full-Stack Developer**
 
-I build full-stack web systems with a focus on clean architecture and real-world performance. My recent work spans LLM inference pipelines, agentic AI systems, and contributions to production codebases — including a [merged PR in opensearch-java](https://github.com/opensearch-project/opensearch-java/pull/1998).
+I build full-stack web systems with a focus on clean architecture and real-world performance. My recent work spans LLM inference pipelines, agentic AI systems, and contributions to production codebases.
 
 Currently deepening expertise in **LangChain · LangGraph · FastAPI · Python**
 
