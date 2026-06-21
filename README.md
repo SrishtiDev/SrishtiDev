@@ -1,59 +1,34 @@
-<div align="center">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-# Srishti Rawat
+### Hi, I'm Srishti 👋
 
-**Full-Stack Developer · Open Source Contributor**
+**Full-Stack Developer**
 
-B.Tech Computer Science · ABES Engineering College, Ghaziabad · CGPA 8.05
+I build full-stack web systems with a focus on clean architecture and real-world performance. My recent work spans LLM inference pipelines, agentic AI systems, and contributions to production codebases — including a [merged PR in opensearch-java](https://github.com/opensearch-project/opensearch-java/pull/1998).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishtirwt/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SrishtiDev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srishtirawat.dev@gmail.com)
-
-</div>
+Currently deepening expertise in **LangChain · LangGraph · FastAPI · Python**
 
 ---
 
-## About
-
-I build full-stack web systems with a focus on clean architecture and real-world performance. My recent work spans LLM inference pipelines, agentic AI systems, and open-source contributions to production-grade repositories. Currently deepening expertise in AI/ML tooling — LangChain, LangGraph, and FastAPI.
-
----
-
-## Projects
-
-### [HireOrbit](https://github.com/SrishtiDev/HireOrbit) — AI Resume Scorer & Optimizer
-
-A production-grade ATS resume analysis platform built on a dual-model inference pipeline.
-
-- **NVIDIA NIM** handles JD keyword extraction; **Groq (llama-3.3-70b)** handles ATS scoring and LaTeX generation
-- Reduced end-to-end latency from ~30s to ~1.5s via endpoint decoupling and SSE streaming
-- PDF compilation via **Tectonic**; fully containerized with **Docker**
-- `Next.js 15` · `Node.js` · `Express` · `Docker` · `NVIDIA NIM` · `Groq`
+**What I'm focused on right now:**
+- 🔨 Building AI-powered full-stack applications
+- 🌐 Contributing to open source — AWS/OpenSearch, Vercel, Mastra
+- 📌 Learning agentic AI patterns with LangChain & LangGraph
+- ⚡ Exploring backend performance & inference optimization
 
 ---
 
-### [DEA](https://github.com/SrishtiDev/IDEA) — Two-Model Data Extraction Agent
+### 🚀 Projects
 
-A sequential LLM pipeline for structured data extraction with strict schema enforcement.
+**[HireOrbit](https://github.com/SrishtiDev/HireOrbit)** — AI Resume Scorer & Optimizer
+> Dual-model pipeline: **NVIDIA NIM** for JD parsing → **Groq (llama-3.3-70b)** for ATS scoring + LaTeX generation. Latency dropped from ~30s → ~1.5s via endpoint decoupling and SSE streaming. Fully containerized with Docker.
 
-- **GLM-4.7 → MiniMax M2.7** in a hardened sequential flow with JSON schema validation
-- **Cheerio**-based scraping layer feeding into the pipeline
-- `Next.js 15` · `Node.js` · `Cheerio`
-
----
-
-## Open Source Contributions
-
-| Repository | Contribution | Status |
-|---|---|---|
-| [opensearch-project/opensearch-java](https://github.com/opensearch-project/opensearch-java/pull/1998) | Added `equals()` and `hashCode()` to `FieldValue` class | ✅ **Merged** |
-| [vercel/ai](https://github.com/vercel/ai/pull/15805) | Fixed streaming bug caused by hardcoded text part IDs | 🔄 In Review |
-| [mastra-ai/mastra](https://github.com/mastra-ai/mastra/pull/17544) | Built date range picker component on evaluation page | 🔄 In Review |
+**[DEA](https://github.com/SrishtiDev/IDEA)** — Two-Model Data Extraction Agent
+> Sequential **GLM-4.7 → MiniMax M2.7** pipeline with strict JSON schema enforcement. Cheerio-based scraping layer. Built on Next.js 15.
 
 ---
 
-## Tech Stack
+### 🔧 Tech Stack
 
 **Languages**
 
@@ -76,7 +51,7 @@ A sequential LLM pipeline for structured data extraction with strict schema enfo
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Databases & Infrastructure**
+**Databases & Infra**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -92,7 +67,7 @@ A sequential LLM pipeline for structured data extraction with strict schema enfo
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SrishtiDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="155" />
@@ -101,14 +76,9 @@ A sequential LLM pipeline for structured data extraction with strict schema enfo
 
 ---
 
-## Currently
-
-- 📌 Learning **LangChain · LangGraph · FastAPI · Python** for AI/ML engineering
-- 📌 Active contributor to [opensearch-project](https://github.com/opensearch-project/opensearch-java)
-- 📌 ACM Core Team Member · ABES Engineering College (2024–2026)
-
----
-
 <div align="center">
-<sub>Open to SDE roles and collaboration on impactful projects.</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishtirwt/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rawat.srishti1010@gmail.com)
+
 </div>
