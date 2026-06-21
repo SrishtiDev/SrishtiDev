@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" />
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" />
 
 ### Hi, I'm Srishti 👋
 
