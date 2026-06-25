@@ -6,7 +6,7 @@
 
 I build full-stack web systems with a focus on clean architecture and real-world performance. My recent work spans LLM inference pipelines, agentic AI systems, and contributions to production codebases.
 
-Currently deepening expertise in **LangChain · LangGraph · FastAPI · Python**
+Currently deepening expertise in **LangChain · LangGraph · RAG .**
 
 ---
 
