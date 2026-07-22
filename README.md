@@ -70,8 +70,8 @@ Currently deepening expertise in **LangChain · LangGraph · RAG .**
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrishtiDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiDev&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="155" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SrishtiDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="155" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SrishtiDev&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="155" />
 </div>
 
 ---
